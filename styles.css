@@ -1,0 +1,23 @@
+#sobre {
+    padding: 50px 0;
+  }
+  
+  /* Estilos para a seção "Tipos" */
+  #tipos .card {
+    margin-bottom: 30px;
+  }
+  
+  /* Estilos para a seção "Vantagens" */
+  #vantagens ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  #vantagens ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    color: white;
+  }
